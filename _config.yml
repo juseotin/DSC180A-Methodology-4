@@ -1,6 +1,7 @@
 title: DSC 180A – Methodology 4
 description: Justin Minseob Seo – UCSD
-theme: cayman
+theme: jekyll-theme-cayman
+
 
 # Recommended so relative links work whether you use a project page or custom domain
 url: "https://<juseotin>.github.io"
