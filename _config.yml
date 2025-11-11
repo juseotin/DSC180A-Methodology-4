@@ -1,0 +1,11 @@
+title: DSC 180A – Methodology 4
+description: Justin Minseob Seo – UCSD
+theme: cayman
+
+# Recommended so relative links work whether you use a project page or custom domain
+url: "https://<juseotin>.github.io"
+baseurl: "/DSC180A-Methodology-4"
+
+# (Optional) show links in header/footer if you add them later
+github:
+  is_project_page: true
